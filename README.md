@@ -8,11 +8,14 @@ A vectorial approach was taken throughout. So each point has three force compone
 ![sphere_elevation](https://github.com/kufbwxfiwy/Newton-s-Shell-Theorem-with-Matlab/blob/master/images/sphere_elevation.png)
 ![sphere_plan](https://github.com/kufbwxfiwy/Newton-s-Shell-Theorem-with-Matlab/blob/master/images/sphere_plan.png)
 
+
 ### This is an isometric view of the approach:
 ![sphere_iso](https://github.com/kufbwxfiwy/Newton-s-Shell-Theorem-with-Matlab/blob/master/images/sphere_iso.png)
+
 
 ### This is the plot of the approach:
 ![plot](https://github.com/kufbwxfiwy/Newton-s-Shell-Theorem-with-Matlab/blob/master/images/plot.png)
 
-### And this is an animated GIF (hopefully it show correctly):
+
+### And this is an animated GIF showing a rotation of the sphere and point:
 ![rotation](https://github.com/kufbwxfiwy/Newton-s-Shell-Theorem-with-Matlab/blob/master/images/rotation.gif)
