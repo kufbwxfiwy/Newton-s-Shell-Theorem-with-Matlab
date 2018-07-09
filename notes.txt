@@ -1,0 +1,8 @@
+This is the same project but automated so as to produce and plot a vector of the forces which the small gravitational point experiences along various positions of the x-axis.
+10 September 2011
+
+I used a gravitational equation of (6.7*85*20)/(dist^2), i.e. G=6.7, m1=85, m2=20 throught this work.
+
+Run creates2 (or creates4), dstances, calcforc in that order to compute the force from the globe.
+
+Or run doall, close figure 2 and type in rotate.
