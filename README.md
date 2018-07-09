@@ -19,4 +19,3 @@ A vectorial approach was taken throughout. So each point has three force compone
 
 ### And this is an animated GIF showing a rotation of the sphere and point:
 ![rotation](https://github.com/kufbwxfiwy/Newton-s-Shell-Theorem-with-Matlab/blob/master/images/rotation.gif)
-
