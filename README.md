@@ -13,7 +13,7 @@ A vectorial approach was taken throughout. So each point has three force compone
 ![sphere_iso](https://github.com/kufbwxfiwy/Newton-s-Shell-Theorem-with-Matlab/blob/master/images/sphere_iso.png)
 
 
-### This is the plot of the approach:
+### This is the plot of the approach and was actually the scope of the whole excercise:
 ![plot](https://github.com/kufbwxfiwy/Newton-s-Shell-Theorem-with-Matlab/blob/master/images/plot.png)
 
 
